@@ -58,8 +58,8 @@ Tatva/
 ## Backend
 
 * Python
-* Flask
-* SQLite / Database Integration
+* FastAPI
+* PostgreSQL / Database Integration
 * REST APIs
 
 ---
